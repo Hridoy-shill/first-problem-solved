@@ -1,0 +1,39 @@
+.form-container{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+.name{
+    padding-bottom: 10px;
+}
+.email{
+    padding-bottom: 10px;
+}
+.password{
+    padding-bottom: 10px;
+}
+.dob{
+    padding-bottom: 10px;
+}
+.photo{
+    padding-bottom: 10px;
+}
+.gender{
+    padding-bottom: 10px;
+}
+.relagion{
+    padding-bottom: 10px;
+}
+.Nationality{
+    padding-bottom: 10px;
+}
+.visited-places{
+    padding-bottom: 10px;
+}
+#text{
+    align-items: center;
+}
+label{
+    width: 100px;
+    display: inline-block;
+}
